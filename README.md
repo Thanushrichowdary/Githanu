@@ -53,8 +53,7 @@ Primary Research Method:
 •	Simulations: Create simulated environments to observe and analyze how privacy-preserving methods behave under varying conditions (e.g., different data sizes, privacy levels).
 Data Collection:
 •	Datasets will be sourced from publicly available databases in the healthcare and financial sectors. These datasets will be used to test the proposed privacy methods. A moderate amount of data will be used to ensure the statistical significance of the results.
-Currently considered datasets: https://github.com/Akil-Karunakaran/ABAC-healthcare-system - Attribute-Based Access Control Models with Threshold Cryptography: Design mathematical models for attribute-based access control (ABAC) in healthcare.
-https://github.com/YashKandoi/Homomorphic-Encryption - Study oriented Project with applications in Healthcare, Finance.
+Currently considered datasets:url = "https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data" Study oriented Project with applications in Healthcare, Finance.
 
 Ethical Considerations
 •	Data privacy and security: The project will make sure that we follow all the rules and laws when we work with private data, such as GDPR and HIPAA. We will avoid social problems that come with sharing personal information by using records that are made public or that are available to everyone.
